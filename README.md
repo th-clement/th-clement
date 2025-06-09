@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Bienvenue sur mon GitHub
 
 Je suis data scientist freelance, spécialisé en NLP, traitement de données et automatisation.
